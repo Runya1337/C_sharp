@@ -1,0 +1,14 @@
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/bin/Debug/net8.0/d00_ex01
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/bin/Debug/net8.0/d00_ex01.deps.json
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/bin/Debug/net8.0/d00_ex01.runtimeconfig.json
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/bin/Debug/net8.0/d00_ex01.dll
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/bin/Debug/net8.0/d00_ex01.pdb
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/obj/Debug/net8.0/d00_ex01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/obj/Debug/net8.0/d00_ex01.AssemblyInfoInputs.cache
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/obj/Debug/net8.0/d00_ex01.AssemblyInfo.cs
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/obj/Debug/net8.0/d00_ex01.csproj.CoreCompileInputs.cache
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/obj/Debug/net8.0/d00_ex01.dll
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/obj/Debug/net8.0/refint/d00_ex01.dll
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/obj/Debug/net8.0/d00_ex01.pdb
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/obj/Debug/net8.0/d00_ex01.genruntimeconfig.cache
+/Users/moneymachine/projects/C # BASIK/C_sharp_Day00-1/src/d00_ex01/obj/Debug/net8.0/ref/d00_ex01.dll
